@@ -1,0 +1,15 @@
+C:\Users\Estudiante\source\repos\Ej5\Ej5\bin\Debug\net5.0\Ej5.exe
+C:\Users\Estudiante\source\repos\Ej5\Ej5\bin\Debug\net5.0\Ej5.deps.json
+C:\Users\Estudiante\source\repos\Ej5\Ej5\bin\Debug\net5.0\Ej5.runtimeconfig.json
+C:\Users\Estudiante\source\repos\Ej5\Ej5\bin\Debug\net5.0\Ej5.runtimeconfig.dev.json
+C:\Users\Estudiante\source\repos\Ej5\Ej5\bin\Debug\net5.0\Ej5.dll
+C:\Users\Estudiante\source\repos\Ej5\Ej5\bin\Debug\net5.0\Ej5.pdb
+C:\Users\Estudiante\source\repos\Ej5\Ej5\obj\Debug\net5.0\Ej5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\source\repos\Ej5\Ej5\obj\Debug\net5.0\Ej5.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\Ej5\Ej5\obj\Debug\net5.0\Ej5.AssemblyInfo.cs
+C:\Users\Estudiante\source\repos\Ej5\Ej5\obj\Debug\net5.0\Ej5.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Ej5\Ej5\obj\Debug\net5.0\Ej5.dll
+C:\Users\Estudiante\source\repos\Ej5\Ej5\obj\Debug\net5.0\refint\Ej5.dll
+C:\Users\Estudiante\source\repos\Ej5\Ej5\obj\Debug\net5.0\Ej5.pdb
+C:\Users\Estudiante\source\repos\Ej5\Ej5\obj\Debug\net5.0\Ej5.genruntimeconfig.cache
+C:\Users\Estudiante\source\repos\Ej5\Ej5\obj\Debug\net5.0\ref\Ej5.dll
