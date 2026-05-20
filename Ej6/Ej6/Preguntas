@@ -1,0 +1,3 @@
+Tener una clase Partida que repartiera las cartas dejaria mas modularizado el codigo. Y permitiria que los usuarios solo tengan que llamar
+a la clase Partida y que no tengan que estar en contacto con el mazo directamente lo que podria ocasionar algun problema de trampa.
+Ademas en la clase Partida se podria hacer otros metodos como por ejemplo InicioDePartida que haria lo que hace el main de repartir las cartas iniciales.
