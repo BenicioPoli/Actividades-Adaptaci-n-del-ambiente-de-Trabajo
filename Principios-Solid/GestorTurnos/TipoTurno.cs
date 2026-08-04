@@ -2,31 +2,16 @@
 
 namespace GestorTurnos
 {
-    public class TurnoTipo
+    public abstract class TurnoTipo //clase abstracta no se puede instanciar directamente,tambien se puede hacer con atributos en vez de funciones
     {
-        private readonly string tipo;
-
-        public string NombreTipo => tipo;
-
-        public TurnoTipo(string tipo)
+        public virtual string nombreTipo()
         {
-            this.tipo = tipo;
+            return "Turno";
         }
 
-        public decimal ObtenerPrecio()
+        public virtual decimal ObtenerPrecio()
         {
-            switch (tipo)
-            {
-                case "Normal":
-                    return 5000;
-                case "Urgente":
-                    return 7500;
-                case "Seguimiento":
-                    return 3000;
-                default:
-                    Console.WriteLine("Error: tipo de turno desconocido.");
-                    return -1;
-            }
+            return 3000;
         }
     }
 }
