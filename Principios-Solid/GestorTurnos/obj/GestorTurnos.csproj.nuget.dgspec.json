@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Estudiante\\Documents\\GestorTurnos-master\\GestorTurnos\\GestorTurnos.csproj": {}
+    "C:\\Users\\Estudiante\\Documents\\Principios-Solid\\GestorTurnos\\GestorTurnos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Estudiante\\Documents\\GestorTurnos-master\\GestorTurnos\\GestorTurnos.csproj": {
+    "C:\\Users\\Estudiante\\Documents\\Principios-Solid\\GestorTurnos\\GestorTurnos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estudiante\\Documents\\GestorTurnos-master\\GestorTurnos\\GestorTurnos.csproj",
+        "projectUniqueName": "C:\\Users\\Estudiante\\Documents\\Principios-Solid\\GestorTurnos\\GestorTurnos.csproj",
         "projectName": "GestorTurnos",
-        "projectPath": "C:\\Users\\Estudiante\\Documents\\GestorTurnos-master\\GestorTurnos\\GestorTurnos.csproj",
+        "projectPath": "C:\\Users\\Estudiante\\Documents\\Principios-Solid\\GestorTurnos\\GestorTurnos.csproj",
         "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estudiante\\Documents\\GestorTurnos-master\\GestorTurnos\\obj\\",
+        "outputPath": "C:\\Users\\Estudiante\\Documents\\Principios-Solid\\GestorTurnos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",

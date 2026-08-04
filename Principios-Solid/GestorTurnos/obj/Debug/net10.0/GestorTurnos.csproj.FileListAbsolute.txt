@@ -12,3 +12,17 @@ C:\Users\Estudiante\Documents\GestorTurnos-master\GestorTurnos\obj\Debug\net10.0
 C:\Users\Estudiante\Documents\GestorTurnos-master\GestorTurnos\obj\Debug\net10.0\GestorTurnos.pdb
 C:\Users\Estudiante\Documents\GestorTurnos-master\GestorTurnos\obj\Debug\net10.0\GestorTurnos.genruntimeconfig.cache
 C:\Users\Estudiante\Documents\GestorTurnos-master\GestorTurnos\obj\Debug\net10.0\ref\GestorTurnos.dll
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\obj\Debug\net10.0\GestorTurnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\obj\Debug\net10.0\GestorTurnos.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\obj\Debug\net10.0\GestorTurnos.AssemblyInfo.cs
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\obj\Debug\net10.0\GestorTurnos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\obj\Debug\net10.0\GestorTurnos.dll
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\obj\Debug\net10.0\refint\GestorTurnos.dll
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\obj\Debug\net10.0\GestorTurnos.pdb
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\bin\Debug\net10.0\GestorTurnos.exe
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\bin\Debug\net10.0\GestorTurnos.deps.json
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\bin\Debug\net10.0\GestorTurnos.runtimeconfig.json
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\bin\Debug\net10.0\GestorTurnos.dll
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\bin\Debug\net10.0\GestorTurnos.pdb
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\obj\Debug\net10.0\GestorTurnos.genruntimeconfig.cache
+C:\Users\Estudiante\Documents\Principios-Solid\GestorTurnos\obj\Debug\net10.0\ref\GestorTurnos.dll

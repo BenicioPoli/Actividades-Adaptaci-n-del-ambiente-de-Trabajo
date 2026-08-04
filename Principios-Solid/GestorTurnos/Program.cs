@@ -6,13 +6,11 @@
         {
             var gestor = new GestorTurnos();
 
-            var creadores = new Creadores();
+            var Paciente1 =  Validaciones.CrearPaciente("Juan Pérez", "30111222", "juan.perez@mail.com");
 
-            var Paciente1 =  creadores.CrearPaciente("Juan Pérez", "30111222", "juan.perez@mail.com");
+            var Paciente2 = Validaciones.CrearPaciente("María Gómez", "27888999", "maria.gomez@mail.com");
 
-            var Paciente2 =  creadores.CrearPaciente("María Gómez", "27888999", "maria.gomez@mail.com");
-
-            var Paciente3 = creadores.CrearPaciente("Carlos Ruiz", "40555666", "carlos.ruiz@mail.com");
+            var Paciente3 = Validaciones.CrearPaciente("Carlos Ruiz", "40555666", "carlos.ruiz@mail.com");
        
 
             // Ejemplos de prueba: turno Normal, Urgente y Seguimiento
@@ -20,12 +18,12 @@
             gestor.ProcesarTurno(Paciente2,"Urgente");
             gestor.ProcesarTurno(Paciente3,"Seguimiento");
 
-            var Paciente4  =  creadores.CrearPaciente("", "123", "email-invalido");
+            var Paciente4  = Validaciones.CrearPaciente("", "123", "email-invalido");
       
             gestor.ProcesarTurno(Paciente4,"Normal");
 
 
-            var Paciente5 = creadores.CrearPaciente("Ana López", "35777888", "ana.lopez@mail.com");
+            var Paciente5 = Validaciones.CrearPaciente("Ana López", "35777888", "ana.lopez@mail.com");
 
             // Ejemplo con tipo de turno desconocido
             gestor.ProcesarTurno(Paciente5,"Telemedicina");
